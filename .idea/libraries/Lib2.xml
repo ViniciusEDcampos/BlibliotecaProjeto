@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/jakarta.activation-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/jakarta.mail-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Lib/itextpdf-5.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
